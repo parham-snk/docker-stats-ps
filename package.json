@@ -1,0 +1,26 @@
+{
+  "name": "docker-stats-ps",
+  "version": "1.0.0",
+  "description": "get docker stats as no-stream ",
+  "keywords": [
+    "docker",
+    "docker-stats",
+    "stats",
+    "no-stream"
+  ],
+  "homepage": "https://github.com/parham-snk/docker-stats-ps#readme",
+  "bugs": {
+    "url": "https://github.com/parham-snk/docker-stats-ps/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parham-snk/docker-stats-ps.git"
+  },
+  "license": "ISC",
+  "author": "parham-snk",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
