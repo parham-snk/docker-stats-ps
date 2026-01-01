@@ -1,7 +1,7 @@
 # docker-stats-ps
 <p>this package outputing an array of your  running containeres in your system by docker</p>
  
-```
+```JS
 //output
 [
   {
@@ -35,7 +35,7 @@ npm i --save docker-stats-ps
 
 ### how to use
 
-```
+```JS
 import DS from "docker-stats-ps"
 
 let dockerStats=new DS().run()
